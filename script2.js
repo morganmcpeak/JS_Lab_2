@@ -46,8 +46,8 @@ function startBattle(name){
 }
 function getDamage() {
   return Math.floor(Math.random()*5)+1;
-}
-*/
+}*/
+
 
 
 var user = {
